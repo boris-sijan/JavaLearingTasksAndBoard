@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaGrundKurs/Kapitel_6 OOP/Challenges/Courses/Courses.iml" filepath="$PROJECT_DIR$/JavaGrundKurs/Kapitel_6 OOP/Challenges/Courses/Courses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGrundKurs/Kapitel_6 OOP/Challenges/HomeAutomation/HomeAutomation.iml" filepath="$PROJECT_DIR$/JavaGrundKurs/Kapitel_6 OOP/Challenges/HomeAutomation/HomeAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGrundKurs/JavaGrundKurs.iml" filepath="$PROJECT_DIR$/JavaGrundKurs/JavaGrundKurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGrundKurs/Kapitel_5 Schleifen und Funktionen/Kapitel_5 Schleifen und Funktionen.iml" filepath="$PROJECT_DIR$/JavaGrundKurs/Kapitel_5 Schleifen und Funktionen/Kapitel_5 Schleifen und Funktionen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGrundKurs/Kapitel_7 Breaking down complexity/Kapitel_7 Breaking down complexity.iml" filepath="$PROJECT_DIR$/JavaGrundKurs/Kapitel_7 Breaking down complexity/Kapitel_7 Breaking down complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGrundKurs/Kapitel_6 OOP/Monsters/Monsters.iml" filepath="$PROJECT_DIR$/JavaGrundKurs/Kapitel_6 OOP/Monsters/Monsters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zoto-develop.iml" filepath="$PROJECT_DIR$/.idea/zoto-develop.iml" />
+    </modules>
+  </component>
+</project>
