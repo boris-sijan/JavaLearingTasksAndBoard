@@ -7,7 +7,7 @@ public class App {
         Trainee alice = new Trainee("Alice", "Python Aufbaukurs", 75);
         Trainee bob = new Trainee("Bob", "Data Science und Machine Learning mit Python", 75);
 
-        
+
         alice.whoAmI();
         bob.whoAmI();
 
