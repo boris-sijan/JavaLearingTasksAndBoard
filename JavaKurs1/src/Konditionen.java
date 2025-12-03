@@ -14,5 +14,21 @@ public class Konditionen {
         String result = (a < b) ? "a ist kleiner als b" : "a ist größer als b";
         System.out.println(result);
 
+        //switch
+        int day = 3;
+        switch (day) {
+            case 1:
+                System.out.println("Montag");
+                break;
+            case 2:
+                System.out.println("Dienstag");
+                break;
+            case 3:
+                System.out.println("Mittwoch");
+                break;
+            // Weitere Fälle...
+            default:
+                System.out.println("Ungültiger Tag");
+        }
     }
 }
