@@ -7,7 +7,7 @@ public class PayRoulette {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("Gib die Namen der Gäste ein (durch Komma getrennt): ");
+        System.out.println("Gib die Namen der Gäste ein ( durch Komma getrennt ): ");
         String input = scanner.nextLine();
 
         // Podeli unos na listu imena
