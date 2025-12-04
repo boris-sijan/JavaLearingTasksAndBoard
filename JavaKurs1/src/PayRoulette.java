@@ -10,10 +10,8 @@ public class PayRoulette {
         System.out.println("Gib die Namen der Gäste ein ( durch Komma getrennt ): ");
         String input = scanner.nextLine();
 
-        // Podeli unos na listu imena
         String[] gaeste = input.split(",");
 
-        // Izaberi slučajnog gosta
         int randomIndex = random.nextInt(gaeste.length);
         String ausgewaehlt = gaeste[randomIndex];
 
