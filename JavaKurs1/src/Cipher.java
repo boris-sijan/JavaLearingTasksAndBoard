@@ -40,7 +40,7 @@ public class Cipher {
         System.out.print("Um wie viele Zeichen soll verschoben werden? ");
         int shift = Integer.parseInt(scanner.nextLine());
 
-        // Nachricht eingeben
+        // Nachricht eingeben zB: Schleifen sind eine grundlegende Steuerungsstruktur in der Programmierung.
         System.out.print("Bitte geben Sie die Nachricht ein: ");
         String message = scanner.nextLine().toLowerCase();
 
